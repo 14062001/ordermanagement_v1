@@ -1,0 +1,28 @@
+.outer1 {
+    max-width: 1260px;
+    margin: 0 auto;
+}
+
+.outer2 {
+    width: 100%;
+    position: relative;
+}
+
+.outer3 {
+    margin: 0 auto;
+    min-width: 978px;
+    max-width: 1680px;
+    padding: 8px;
+}
+
+.outer4.outer5 {
+    flex-flow: row;
+}
+
+.col-12-12 {
+    width: 100%;
+}
+
+._1AtVbE {
+    display: block;
+}
